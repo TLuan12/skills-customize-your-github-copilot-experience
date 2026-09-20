@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "data-cleaning-report",
+      "title": "Data Cleaning and Summary Report",
+      "description": "Practice cleaning a messy dataset and summarizing it with Python.",
+      "path": "assignments/data-cleaning-report",
+      "dueDate": "2026-09-27",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
